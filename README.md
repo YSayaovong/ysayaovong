@@ -329,7 +329,7 @@ I'm currently building AI solutions focused on:
 
 # 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ysayaovong/
+- 💼 LinkedIn: https://www.linkedin.com/in/yengkongsayaovong/
 - 📧 Email: ysayaovong@gmail.com
 - 💻 GitHub: https://github.com/YSayaovong
 
