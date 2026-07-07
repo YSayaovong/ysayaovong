@@ -1,170 +1,374 @@
-# Yengkong Sayaovong | AI + Manufacturing Portfolio
+# 🤖 AI Engineering & Mechanical Design Portfolio
 
-This portfolio highlights my strongest AI, automation, document intelligence, and manufacturing analytics projects.
+<p align="center">
 
-I have 6+ years of mechanical design experience in high-volume transformer manufacturing, and I focus on building practical AI systems that improve engineering workflows, reduce manual review, and turn technical data into usable business insights.
+# Yengkong Sayaovong
 
-## Featured Projects
+### Mechanical Designer • AI Automation • Data Analytics • Engineering Solutions
 
-### 1. AI-Augmented Mechanical Design for Manufacturing
+Building AI-powered engineering tools, workflow automation, analytics dashboards, and software that solve real business problems.
 
-AI-assisted workflow for improving mechanical design review, manufacturability checks, and engineering decision support.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ysayaovong/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge)](#)
 
-**Key Focus:**
-- AI-assisted design review
-- Manufacturability checks
-- Engineering workflow improvement
-- Mechanical design decision support
+</p>
 
-**Tech Used:**
-- AI Agents
+---
+
+# 👋 About Me
+
+I'm a **Mechanical Designer with 5+ years of experience** designing high-power electrical equipment in a high-volume manufacturing environment.
+
+Over the past year I've expanded into **Artificial Intelligence, Data Analytics, Python, and Workflow Automation**, building software that streamlines engineering processes and transforms complex data into actionable insights.
+
+My goal is to bridge the gap between traditional engineering and modern AI technologies.
+
+---
+
+# 💼 Professional Experience
+
+### Mechanical Designer
+
+**Prolec-GE Waukesha**  
+2020 – Present
+
+- Design complex mechanical assemblies for high-power electrical equipment
+- Release production-ready engineering configurations
+- Collaborate with manufacturing to resolve engineering issues
+- Improve design quality and manufacturing efficiency
+- Develop engineering analytics and workflow improvements
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+# 🏭 BOM Analytics Dashboard
+
+Engineering analytics platform built for manufacturing environments.
+
+### Highlights
+
+- Engineering KPI Dashboard
+- BOM Quality Tracking
+- Release Metrics
+- Error Analysis
+- Manufacturing Reporting
+
+### Tech Stack
+
+```
+Excel
+Power Query
+Power BI
+Python
+SQL
+```
+
+**Repository**
+
+➡️ https://github.com/YSayaovong/Prolec-GE-BOM-Analytics
+
+---
+
+# 🤖 AI PDF Reader
+
+An AI-powered engineering assistant capable of answering questions from technical PDF documents using Retrieval-Augmented Generation (RAG).
+
+### Features
+
+- PDF Upload
+- OCR Processing
+- Semantic Search
+- OpenAI Integration
+- Engineering Question Answering
+
+### Tech Stack
+
+```
+Python
+LangChain
+OpenAI
+FAISS
+Streamlit
+```
+
+**Repository**
+
+➡️ https://github.com/YSayaovong/Pfizer-AI-PDF-Reader
+
+---
+
+# ⚙️ Supply Chain Document ETL Pipeline
+
+Automated ETL pipeline for processing supply chain documents into structured engineering data.
+
+### Features
+
+- OCR Extraction
+- Data Cleaning
+- ETL Processing
+- SQL Storage
+- Automated Workflow
+
+### Tech Stack
+
+```
+Python
+Pandas
+SQLite
+OCR
+ETL
+```
+
+**Repository**
+
+➡️ https://github.com/YSayaovong/Supply-Chain-Document-ETL-Pipeline
+
+---
+
+# 📊 Rental Portfolio Analytics
+
+Business intelligence dashboard for analyzing rental property performance.
+
+### Features
+
+- ROI Analysis
+- Cash Flow Tracking
+- Occupancy Metrics
+- Financial KPIs
+- Investment Reporting
+
+### Tech Stack
+
+```
+Python
+Power BI
+Excel
+SQL
+```
+
+**Repository**
+
+➡️ https://github.com/YSayaovong/Individual-Rental-Portfolio-Analytics
+
+---
+
+# 📈 Revenue Drivers Regression Analysis
+
+Statistical modeling project exploring the variables that influence rental portfolio performance.
+
+### Features
+
+- Regression Modeling
+- Correlation Analysis
+- Data Visualization
+- Business Insights
+- Predictive Analytics
+
+### Tech Stack
+
+```
+Python
+Pandas
+Scikit-Learn
+Matplotlib
+Jupyter
+```
+
+**Repository**
+
+➡️ https://github.com/YSayaovong/Revenue-Drivers-Regression-Analysis-for-Rental-Portfolio
+
+---
+
+# ⛪ Worship Analytics Dashboard
+
+Interactive dashboard providing operational insights for worship ministry planning.
+
+### Features
+
+- Attendance Analytics
+- Song Usage Trends
+- Volunteer Metrics
+- Scheduling Insights
+- Dashboard Reporting
+
+### Tech Stack
+
+```
+Power BI
+Excel
+Python
+```
+
+**Repository**
+
+➡️ https://github.com/YSayaovong/HFBC-Worship-Analytics
+
+---
+
+# 💰 20K Savings Goal Dashboard
+
+Personal finance dashboard used to track savings progress and financial goals.
+
+### Features
+
+- Savings Tracking
+- Goal Monitoring
+- Monthly Progress
+- Budget Dashboard
+- Financial Reporting
+
+### Tech Stack
+
+```
+Excel
+Power Query
+Power BI
+```
+
+**Repository**
+
+➡️ https://github.com/YSayaovong/20K-Savings-Goal-Dashboard
+
+---
+
+# 🛠 Technical Skills
+
+## Engineering
+
+- Creo
+- Mechanical Design
+- Engineering Documentation
+- BOM Management
+- Design Reviews
+- Manufacturing Support
+
+---
+
+## Artificial Intelligence
+
+- OpenAI API
+- LangChain
+- Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
-- Manufacturing Analytics
-- Mechanical Design Logic
-
-[View Repository](https://github.com/YSayaovong/AI-Augmented-Mechanical-Design-for-Manufacturing)
+- AI Agents
 
 ---
 
-### 2. Regulatory Document Event Processing System
-
-Document intelligence system designed to extract events, deadlines, and structured insights from regulatory-style documents.
-
-**Key Focus:**
-- Document processing
-- Event extraction
-- Structured data generation
-- Workflow automation
-
-**Tech Used:**
-- Python
-- OCR
-- LLMs
-- RAG
-- Document AI
-
-[View Repository](https://github.com/YSayaovong/Regulatory-Document-Event-Processing-System)
-
----
-
-### 3. Supply Chain Document ETL Pipeline
-
-ETL pipeline for converting supply chain documents into clean, structured, analysis-ready data.
-
-**Key Focus:**
-- Document ingestion
-- Data cleaning
-- ETL workflows
-- Business process automation
-
-**Tech Used:**
-- Python
-- ETL
-- OCR
-- Data Transformation
-- Automation
-
-[View Repository](https://github.com/YSayaovong/Supply-Chain-Document-ETL-Pipeline)
-
----
-
-### 4. Pfizer AI PDF Reader
-
-AI-powered PDF reader designed to extract, summarize, and retrieve information from technical and business documents.
-
-**Key Focus:**
-- PDF analysis
-- Document summarization
-- Information retrieval
-- AI-assisted research
-
-**Tech Used:**
-- Python
-- OCR
-- LLMs
-- RAG
-- PDF Processing
-
-[View Repository](https://github.com/YSayaovong/Pfizer-AI-PDF-Reader)
-
----
-
-### 5. Prolec-GE BOM Analytics
-
-Manufacturing BOM analytics project using simulated data to evaluate engineering, configuration, and production trends.
-
-**Key Focus:**
-- BOM analysis
-- Configuration accuracy
-- Manufacturing KPIs
-- Engineering data quality
-
-**Tech Used:**
-- Python
-- SQL
-- Analytics
-- Manufacturing Data
-- KPI Reporting
-
-**Disclaimer:**  
-This project uses representative simulated data. Proprietary datasets, identifiers, and business-specific details have been removed or replaced.
-
-[View Repository](https://github.com/YSayaovong/Prolec-GE-BOM-Analytics)
-
----
-
-### 6. Manufacturing Throughput Analysis
-
-Analytics project focused on identifying throughput patterns, production bottlenecks, and operational improvement opportunities.
-
-**Key Focus:**
-- Throughput analysis
-- Bottleneck identification
-- Production trends
-- Operational improvement
-
-**Tech Used:**
-- Python
-- Data Analysis
-- KPI Reporting
-- Manufacturing Analytics
-
-[View Repository](https://github.com/YSayaovong/Manufacturing-Throughput-Analysis)
-
----
-
-## Technical Skills
+## Programming
 
 - Python
 - SQL
+- HTML
+- CSS
 - JavaScript
-- AI Agents
-- n8n
-- RAG
+
+---
+
+## Data Analytics
+
+- Power BI
+- Excel
+- Power Query
+- Pandas
+- Data Visualization
+
+---
+
+## Automation
+
+- ETL Pipelines
 - OCR
-- LLMs
-- Prompt Engineering
-- Google Sheets
-- REST APIs
+- n8n
+- Workflow Automation
+
+---
+
+## Tools
+
 - Git
 - GitHub
-- Manufacturing Analytics
+- VS Code
+- Jupyter Notebook
+- Streamlit
+
+---
+
+# 📚 Education
+
+### Bachelor of Science
+
+**Information Technology**
+
+Arizona State University
+
+---
+
+### Associate of Applied Science
+
+**Mechanical Design Technology**
+
+Milwaukee Area Technical College
+
+---
+
+# 📜 Certifications
+
+- Google Data Analytics
+- Google Business Intelligence
+- IBM Data Analytics Essentials
+- AWS Cloud Engineer
+- DataCamp Data Analyst in Python
+- DataCamp Associate Data Engineer in SQL
+- Zero To Mastery Python Developer
+- Zero To Mastery Data Analyst
+- Zero To Mastery BI Analyst
+- Zero To Mastery Excel Expert
+
+---
+
+# 🎯 Current Focus
+
+I'm currently building AI solutions focused on:
+
+- Engineering Automation
+- AI Document Processing
 - Mechanical Design Workflows
+- Manufacturing Analytics
+- Business Intelligence
+- AI Agents
+- Python Development
 
-## Professional Background
+---
 
-I currently work as a Mechanical Designer in high-volume transformer manufacturing. My work includes mechanical configurations, design releases, CAD model troubleshooting, BOM accuracy, manufacturability reviews, and production support.
+# 📈 GitHub Stats
 
-My AI portfolio builds on that background by focusing on real business problems:
+> GitHub automatically displays contribution graphs and repository activity on your profile.
 
-- Engineering review automation
-- Manufacturing data analysis
-- Document intelligence
-- Workflow automation
-- AI-assisted decision support
+---
 
-## Contact
+# 🤝 Let's Connect
 
-**Email:** YSayaovong@gmail.com  
-**GitHub:** [github.com/YSayaovong](https://github.com/YSayaovong)  
-**LinkedIn:** [https://www.linkedin.com/in/yengkongsayaovong/](https://www.linkedin.com/in/yengkongsayaovong/) 
+- 💼 LinkedIn: https://www.linkedin.com/in/ysayaovong/
+- 📧 Email: ysayaovong@gmail.com
+- 💻 GitHub: https://github.com/YSayaovong
+
+---
+
+# ⭐ If you find my work interesting
+
+Feel free to explore my repositories, leave feedback, or connect with me. I'm always interested in collaborating on projects involving engineering, AI, automation, and data analytics.
+
+---
+
+<p align="center">
+
+**Building the future where Engineering meets Artificial Intelligence.**
+
+⭐ Thanks for visiting!
+
+</p>
