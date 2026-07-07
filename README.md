@@ -9,7 +9,7 @@
 Building AI-powered engineering tools, workflow automation, analytics dashboards, and software that solve real business problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ysayaovong/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yengkongsayaovong/)
 
 </p>
 
