@@ -171,4 +171,4 @@ My AI portfolio builds on that background by focusing on real business problems:
 
 **Email:** YSayaovong@gmail.com  
 **GitHub:** [github.com/YSayaovong](https://github.com/YSayaovong)  
-**LinkedIn:** Add your LinkedIn URL here
+**LinkedIn:** [https://www.linkedin.com/in/yengkongsayaovong/](https://www.linkedin.com/in/yengkongsayaovong/) 
