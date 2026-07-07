@@ -6,7 +6,7 @@ I have 6+ years of mechanical design experience in high-volume transformer manuf
 
 ## Live Portfolio
 
-[View Portfolio Website](https://YSayaovong.github.io)
+[View Portfolio Website]([https://YSayaovong.github.io](https://ysayaovong.github.io/ysayaovong/))
 
 ## Featured Projects
 
