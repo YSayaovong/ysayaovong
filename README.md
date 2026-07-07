@@ -10,7 +10,6 @@ Building AI-powered engineering tools, workflow automation, analytics dashboards
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ysayaovong/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge)](#)
 
 </p>
 
