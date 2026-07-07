@@ -8,8 +8,6 @@ I have 6+ years of mechanical design experience in high-volume transformer manuf
 
 [View Live Portfolio](https://YSayaovong.github.io) 
 
-[View Portfolio Website]([https://YSayaovong.github.io])
-
 ## Featured Projects
 
 ### 1. AI-Augmented Mechanical Design for Manufacturing
