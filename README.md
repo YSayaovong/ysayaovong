@@ -17,7 +17,7 @@ Building AI-powered engineering tools, workflow automation, analytics dashboards
 
 # 👋 About Me
 
-I'm a **Mechanical Designer with 5+ years of experience** designing high-power electrical equipment in a high-volume manufacturing environment.
+I'm a **Mechanical Designer with 6+ years of experience** designing high-power electrical equipment in a high-volume manufacturing environment.
 
 Over the past year I've expanded into **Artificial Intelligence, Data Analytics, Python, and Workflow Automation**, building software that streamlines engineering processes and transforms complex data into actionable insights.
 
