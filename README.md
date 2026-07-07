@@ -4,10 +4,6 @@ This portfolio highlights my strongest AI, automation, document intelligence, an
 
 I have 6+ years of mechanical design experience in high-volume transformer manufacturing, and I focus on building practical AI systems that improve engineering workflows, reduce manual review, and turn technical data into usable business insights.
 
-## Live Portfolio
-
-[View Live Portfolio](https://YSayaovong.github.io) 
-
 ## Featured Projects
 
 ### 1. AI-Augmented Mechanical Design for Manufacturing
