@@ -300,34 +300,11 @@ Power BI
 
 # 📚 Education
 
-### Bachelor of Science
-
-**Information Technology**
-
-Arizona State University
-
----
-
 ### Associate of Applied Science
 
 **Mechanical Design Technology**
 
 Milwaukee Area Technical College
-
----
-
-# 📜 Certifications
-
-- Google Data Analytics
-- Google Business Intelligence
-- IBM Data Analytics Essentials
-- AWS Cloud Engineer
-- DataCamp Data Analyst in Python
-- DataCamp Associate Data Engineer in SQL
-- Zero To Mastery Python Developer
-- Zero To Mastery Data Analyst
-- Zero To Mastery BI Analyst
-- Zero To Mastery Excel Expert
 
 ---
 
