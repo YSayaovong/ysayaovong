@@ -34,3 +34,7 @@ Use project findings as demonstrations, not verified workplace savings or engine
 `README.md` is the GitHub profile summary. `index.html`, `style.css` and `script.js` form a static portfolio website with the same analyst focus and public project links. Preview locally with `python -m http.server 8000` and open localhost:8000. No build step or backend is required.
 
 The latest validation scripts, regression checks and documentation were developed with AI assistance. They are portfolio learning work, not evidence of workplace programming. Read, rerun and explain the checks before presenting them in an interview.
+
+
+## Two resume projects
+**Transformer BOM Quality Analytics** and **Manufacturing Scrap Rate Analytics** are the two projects selected for the Data Analyst resume. The other repositories are supporting practice or concept work. Run `python check_portfolio.py` to check local website assets and navigation anchors; it is not an accessibility or remote-link audit.
