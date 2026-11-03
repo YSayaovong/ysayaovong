@@ -1,40 +1,68 @@
 # Yengkong Sayaovong
-## Data Analyst Career Transition
-### Manufacturing Data Quality and Operations Analytics
+### Mechanical Designer | Engineering Systems & CAD Application Support
 
-Mechanical designer with experience in manufacturing configurations, BOM and revision checks, engineering documentation, and discrepancy investigation using Creo, SAP/TDMS and Excel.
+Milwaukee, Wisconsin · [LinkedIn](https://www.linkedin.com/in/yengkongsayaovong/) · [Portfolio website](https://ysayaovong.github.io/ysayaovong/)
 
-I am transitioning from Mechanical Design to Data Analyst roles. My portfolio connects manufacturing domain knowledge with independent data-analysis projects. Portfolio work is separate from paid employment. Synthetic examples and proposed improvements are not claimed as employer results.
+I am a **Mechanical Designer with nearly seven years of experience** in engineering design, CAD troubleshooting, bill of materials (BOM) validation, engineering release reviews, configuration management, and manufacturing support.
 
-## Featured projects
-- [Transformer BOM Quality Analytics](https://github.com/YSayaovong/Transformer-BOM-Quality-Analytics): Synthetic workbook with 120 BOM error events and 100 revision entries. Read-only checks flag unchanged revisions, test source grain and reconcile four workbook KPIs.
-- [Manufacturing Scrap Rate Analytics](https://github.com/YSayaovong/Manufacturing-Scrap-Rate-Analytics): Production and defect facts with corrected aggregation, three regression cases and a source-backed weighted scrap rate of 1.5755%. SQLite checks cover aggregation logic; PostgreSQL deployment remains separate.
-- [System Resource Analytics Using Python and SQL](https://github.com/YSayaovong/System-Resource-Analytics-Using-Python-SQL): Loads Excel process metrics into SQLite, groups CPU and memory data, filters high-CPU records and exports an Excel result. Basic SQL practice, separate from employment.
-- [HFBC Worship Analytics](https://github.com/YSayaovong/HFBC-Worship-Analytics): Transforms song-use history into dimensions, facts and rotation reports. Recency uses an explicit reporting date, defaulting to the last source date; frequency alone does not explain selection decisions.
-- [Manufacturing Station Capacity Simulation](https://github.com/YSayaovong/Manufacturing-Station-Capacity-Simulation): Monte Carlo demonstration of independent station capacities and downtime. The minimum station total is a capacity approximation, without chronological serial flow or buffers.
-- [Application Event ETL Demo](https://github.com/YSayaovong/Application-Event-ETL-Demo): CSV application events flow through Python transformations and PostgreSQL raw/curated tables, with watermark and run tracking. Recovery and transaction limits are documented.
-- [AI-Assisted Mechanical Design Proposal](https://github.com/YSayaovong/AI-Assisted-Mechanical-Design-Proposal): Business-case presentation proposing human-reviewed documentation assistance. No executable CAD integration or measured workplace pilot is included.
+I work with **Creo Parametric, SAP, TDMS, and Excel** to investigate model, documentation, and configuration discrepancies, support engineering workflows, and collaborate with manufacturing teams. My professional experience includes troubleshooting missing model parameters, dependency issues, and regeneration failures, as well as supporting and training other designers.
 
-## Career focus
-Data Analyst; Data Quality Analyst; Master Data Analyst/Coordinator; BOM/Configuration Analyst; Manufacturing/Operations Analyst.
+**Career direction:** Fully remote Engineering Systems Analyst, CAD Application Support Specialist, Engineering Configuration Analyst, PLM/PDM Support Analyst, or Engineering Applications Support roles. My goal is to apply existing engineering-system experience while strengthening the automation, SQL, and data validation skills useful in these positions.
 
-## Skills and project evidence
-- Professional foundation: mechanical design, BOM/configuration checks, engineering documentation, manufacturing support.
-- Portfolio practice: Python, SQL, data modeling, KPI calculation and reporting. Each repository describes the actual implementation and its limitations.
-- Development direction: reproducible validation and carefully evaluated automation. A proposed feature is not a completed capability.
+## Engineering systems capabilities
 
-## Education
-Associate degree in Mechanical Design Technology; additional study and training in information technology and analytics.
+| Area | Professional experience and focus |
+| --- | --- |
+| **CAD application troubleshooting** | Creo Parametric model dependencies, missing parameters, regeneration issues, design workflow support |
+| **Engineering data & BOM quality** | BOM validation, component specifications, revision/configuration discrepancies, documentation review |
+| **Engineering systems** | SAP and TDMS use in design, documentation, and manufacturing coordination |
+| **Release & configuration control** | Engineering release checks, standardized checklists, design consistency, production readiness |
+| **Problem investigation** | Dimensional, material, assembly, and documentation issues; root-cause investigation with manufacturing teams |
+| **Support & enablement** | CAD troubleshooting guidance, technical documentation, and designer training |
 
-[LinkedIn](https://www.linkedin.com/in/yengkongsayaovong/) • [GitHub](https://github.com/YSayaovong)
+## Portfolio evidence
 
-Use project findings as demonstrations, not verified workplace savings or engineering approval.
+These independent projects demonstrate related analytical and automation techniques; **they are not employer implementations or claims of production-system integration**. A project's source code and README define what is actually implemented.
 
-## Repository files
-`README.md` is the GitHub profile summary. `index.html`, `style.css` and `script.js` form a static portfolio website with the same analyst focus and public project links. Preview locally with `python -m http.server 8000` and open localhost:8000. No build step or backend is required.
+- **[Transformer BOM Quality Analytics](https://github.com/YSayaovong/Transformer-BOM-Quality-Analytics)** — Synthetic BOM/revision-quality analysis, review checks, and workbook reconciliation. Relevant to engineering data integrity and configuration analysis.
+- **[AI-Assisted Mechanical Design Proposal](https://github.com/YSayaovong/AI-Assisted-Mechanical-Design-Proposal)** — Concept proposal for human-reviewed documentation assistance. **Not** an executable Creo or enterprise CAD integration.
+- **[Application Event ETL Demo](https://github.com/YSayaovong/Application-Event-ETL-Demo)** — Application event ingestion and data transformation exercise. Related to engineering application data processing, not evidence of production PLM support.
+- **[Manufacturing Scrap Rate Analytics](https://github.com/YSayaovong/Manufacturing-Scrap-Rate-Analytics)** — Manufacturing defect and production-rate reconciliation. Supporting evidence for data quality and root-cause analysis.
 
-The latest validation scripts, regression checks and documentation were developed with AI assistance. They are portfolio learning work, not evidence of workplace programming. Read, rerun and explain the checks before presenting them in an interview.
+> **Visibility note:** Repository links will only open for viewers who have access. If the work remains private, these are portfolio references for the repository owner rather than publicly inspectable samples.
 
+## Engineering systems projects being developed
 
-## Two resume projects
-**Transformer BOM Quality Analytics** and **Manufacturing Scrap Rate Analytics** are the two projects selected for the Data Analyst resume. The other repositories are supporting practice or concept work. Run `python check_portfolio.py` to check local website assets and navigation anchors; it is not an accessibility or remote-link audit.
+The following are **planned portfolio builds**, not completed implementations or current job responsibilities:
+
+1. **Engineering BOM Validation System** — Compare synthetic engineering and manufacturing BOMs; identify missing items, quantity differences, duplicates, and revision mismatches; export an Excel discrepancy report and run automated tests.
+2. **Creo CAD Application Support Toolkit** — Rule-based checks on synthetic CAD metadata exports and documented troubleshooting scenarios; no implied access to Creo APIs.
+3. **Engineering Change & Revision Tracker** — A sample change-control workflow with revision history and approval status.
+4. **Engineering Release Quality Dashboard** — Reproducible quality metrics for synthetic release-review events.
+5. **SAP–PDM Data Reconciliation Simulator** — Compare *simulated* ERP and PDM export files and generate exceptions; not a live SAP or TDMS connection.
+6. **Engineering Drawing & Nameplate Audit Tool** — Validate synthetic drawing/nameplate fields and approval completeness.
+
+Each build should be published as **implemented and tested**, with clearly defined inputs, validation rules, sample outputs, assumptions, limitations, and instructions to reproduce the results.
+
+## Technical background
+
+- **Professional tools:** Creo Parametric · SAP · TDMS · Microsoft Excel
+- **Engineering disciplines:** CAD troubleshooting · BOM checks · drawing/revision review · documentation · engineering release reviews · manufacturing issue investigation
+- **Independent portfolio practice:** Python · SQL · data reconciliation · automation concepts · reporting (see linked repositories for verified implementation details)
+
+## Experience & education
+
+**Mechanical Designer — GE Vernova (October 2020–present)**  
+Engineering design, release checking, configuration/documentation validation, CAD support, and manufacturing collaboration. Previous Mechanical Design Intern role in 2020.
+
+**Arizona State University** — Bachelor's degree in Liberal Studies, *expected December 2027*  
+**Milwaukee Area Technical College** — AAS, Mechanical Design Technology, April 2021
+
+## Project integrity
+
+This GitHub profile separates **professional engineering experience** from **independent coding practice**. All new portfolio examples should use synthetic or otherwise shareable data, not confidential drawings, customer records, internal exports, or proprietary engineering specifications. Portfolio code and documentation may be AI-assisted and must be reviewed, tested, and understood before being presented as demonstrated personal capability.
+
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/yengkongsayaovong/)
+
+---
+*This repository also contains a static portfolio website (`index.html`, `style.css`, `script.js`). Run `python check_portfolio.py` to validate local links/assets and role alignment. This check does not verify external links or claim accessibility certification.*
