@@ -34,10 +34,15 @@ parser.feed(html)
 assert all(anchor[1:] in parser.ids for anchor in parser.anchors if anchor.startswith("#")), "Missing navigation target"
 assert all((ROOT / asset).is_file() for asset in parser.assets), "Missing static asset"
 assert "ENGINEERING SYSTEMS" in readme.upper()
-assert "CAD APPLICATION SUPPORT" in readme.upper()
+assert "MANUFACTURING BUSINESS ANALYSIS" in readme.upper()
 assert "Engineering Systems" in html
-assert "CAD Application Support" in html
+assert "Manufacturing Business Systems Analyst" in html
 assert "planned" in readme.lower()
 assert "synthetic" in readme.lower()
 assert not re.search(r'<a[^>]+href="#[^"]+"[^>]*>\s*</a>', html), "Empty navigation link"
-print("Local assets, anchors, and engineering systems positioning verified.")
+featured = ("Engineering-Change-Revision-Tracker", "Engineering-BOM-Validation-System",
+            "Transformer-BOM-Quality-Analytics", "Manufacturing-Scrap-Rate-Analytics")
+for repo in featured:
+    url = f"https://github.com/YSayaovong/{repo}"
+    assert url in parser.anchors and url in readme, f"Missing featured project: {repo}"
+print("Local assets, anchors, and analyst portfolio links verified.")
