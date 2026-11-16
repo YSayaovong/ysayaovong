@@ -34,10 +34,9 @@ parser.feed(html)
 assert all(anchor[1:] in parser.ids for anchor in parser.anchors if anchor.startswith("#")), "Missing navigation target"
 assert all((ROOT / asset).is_file() for asset in parser.assets), "Missing static asset"
 assert "ENGINEERING SYSTEMS" in readme.upper()
-assert "MANUFACTURING BUSINESS ANALYSIS" in readme.upper()
-assert "Engineering Systems" in html
-assert "Manufacturing Business Systems Analyst" in html
-assert "planned" in readme.lower()
+assert "Engineering Business Analyst Portfolio" in readme
+assert "<h1>Engineering Business Analyst Portfolio</h1>" in html
+assert {"change-control", "bom-reconciliation"} <= parser.ids
 assert "synthetic" in readme.lower()
 assert not re.search(r'<a[^>]+href="#[^"]+"[^>]*>\s*</a>', html), "Empty navigation link"
 featured = ("Engineering-Change-Revision-Tracker", "Engineering-BOM-Validation-System",
