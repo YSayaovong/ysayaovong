@@ -31,7 +31,7 @@ These independent case studies and development exercises use synthetic data.
 
 ## Planned portfolio development
 
-Expand the engineering change tracker with workflow requirements and acceptance scenarios. Improve the BOM validator’s handling of ambiguous duplicates, and add an analysis of elapsed time at each review stage using synthetic timestamps.
+Improve the BOM validator’s handling of ambiguous duplicates, and add an analysis of elapsed time at each review stage using synthetic timestamps.
 
 ## Technical background
 
