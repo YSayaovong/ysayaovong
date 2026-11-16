@@ -31,7 +31,7 @@ These independent case studies and development exercises use synthetic data.
 
 ## Planned portfolio development
 
-Improve the BOM validator’s handling of ambiguous duplicates, and add an analysis of elapsed time at each review stage using synthetic timestamps.
+The companion project drafts add BOM duplicate routing and a SQL analysis of review-stage duration. Planned follow-up is to add submission-cohort reporting and audit how the proposed exception handling affects release decisions.
 
 ## Technical background
 
