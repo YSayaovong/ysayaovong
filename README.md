@@ -1,5 +1,5 @@
 # Yengkong Sayaovong
-### Mechanical Designer | Engineering Systems & Manufacturing Business Analysis
+### Engineering Business Analyst Portfolio
 
 Milwaukee, Wisconsin · [LinkedIn](https://www.linkedin.com/in/yengkongsayaovong/) · [Portfolio website](https://ysayaovong.github.io/ysayaovong/)
 
@@ -7,7 +7,7 @@ I am a **Mechanical Designer with nearly seven years of experience** in engineer
 
 I work with **Creo Parametric, SAP, TDMS, and Excel** to investigate model, documentation, and configuration discrepancies, support engineering workflows, and collaborate with manufacturing teams. My professional experience includes troubleshooting missing model parameters, dependency issues, and regeneration failures, as well as supporting and training other designers.
 
-**Career direction:** Fully remote engineering systems and manufacturing business analysis, with a focus on requirements, engineering change workflows, product data quality, and validation.
+**Career direction:** I’m pursuing fully remote Engineering Business Analyst roles from Wisconsin, with a focus on requirements, engineering change workflows, product data quality, and acceptance testing.
 
 ## Engineering systems capabilities
 
@@ -24,14 +24,10 @@ I work with **Creo Parametric, SAP, TDMS, and Excel** to investigate model, docu
 
 These independent case studies and development exercises use synthetic data.
 
-- **[Engineering Change & Revision Tracker](https://github.com/YSayaovong/Engineering-Change-Revision-Tracker)** — SQLite simulation of revision requests, release gates, and change history.
-- **[Engineering BOM Validation System](https://github.com/YSayaovong/Engineering-BOM-Validation-System)** — Compares synthetic engineering and manufacturing BOMs and exports exceptions to Excel.
+- **[Engineering Change & Revision Tracker](https://github.com/YSayaovong/Engineering-Change-Revision-Tracker)** — Workflow requirements, release acceptance scenarios, and SQL analysis of approval delays and open requests in a synthetic demo.
+- **[Engineering BOM Validation System](https://github.com/YSayaovong/Engineering-BOM-Validation-System)** — Business rules and acceptance criteria for BOM reconciliation, with an Excel exception report and duplicate routing for review.
 - **[Transformer BOM Quality Analytics](https://github.com/YSayaovong/Transformer-BOM-Quality-Analytics)** — Reconciles workbook KPIs and checks synthetic revision and BOM quality data.
 - **[Manufacturing Scrap Rate Analytics](https://github.com/YSayaovong/Manufacturing-Scrap-Rate-Analytics)** — Uses SQL and Python to reconcile scrap totals and verify the production denominator.
-
-## Planned portfolio development
-
-The companion project drafts add BOM duplicate routing and a SQL analysis of review-stage duration. Planned follow-up is to add submission-cohort reporting and audit how the proposed exception handling affects release decisions.
 
 ## Technical background
 
