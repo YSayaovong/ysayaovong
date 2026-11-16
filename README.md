@@ -1,5 +1,5 @@
 # Yengkong Sayaovong
-### Mechanical Designer | Engineering Systems & CAD Application Support
+### Mechanical Designer | Engineering Systems & Manufacturing Business Analysis
 
 Milwaukee, Wisconsin · [LinkedIn](https://www.linkedin.com/in/yengkongsayaovong/) · [Portfolio website](https://ysayaovong.github.io/ysayaovong/)
 
@@ -7,7 +7,7 @@ I am a **Mechanical Designer with nearly seven years of experience** in engineer
 
 I work with **Creo Parametric, SAP, TDMS, and Excel** to investigate model, documentation, and configuration discrepancies, support engineering workflows, and collaborate with manufacturing teams. My professional experience includes troubleshooting missing model parameters, dependency issues, and regeneration failures, as well as supporting and training other designers.
 
-**Career direction:** Fully remote Engineering Systems Analyst, CAD Application Support Specialist, Engineering Configuration Analyst, PLM/PDM Support Analyst, or Engineering Applications Support roles. My goal is to apply existing engineering-system experience while strengthening the automation, SQL, and data validation skills useful in these positions.
+**Career direction:** Fully remote engineering systems and manufacturing business analysis, with a focus on requirements, engineering change workflows, product data quality, and validation.
 
 ## Engineering systems capabilities
 
@@ -20,29 +20,18 @@ I work with **Creo Parametric, SAP, TDMS, and Excel** to investigate model, docu
 | **Problem investigation** | Dimensional, material, assembly, and documentation issues; root-cause investigation with manufacturing teams |
 | **Support & enablement** | CAD troubleshooting guidance, technical documentation, and designer training |
 
-## Portfolio evidence
+## Selected analyst projects
 
-These independent projects demonstrate related analytical and automation techniques; **they are not employer implementations or claims of production-system integration**. A project's source code and README define what is actually implemented.
+These independent case studies and development exercises use synthetic data.
 
-- **[Transformer BOM Quality Analytics](https://github.com/YSayaovong/Transformer-BOM-Quality-Analytics)** — Synthetic BOM/revision-quality analysis, review checks, and workbook reconciliation. Relevant to engineering data integrity and configuration analysis.
-- **[AI-Assisted Mechanical Design Proposal](https://github.com/YSayaovong/AI-Assisted-Mechanical-Design-Proposal)** — Concept proposal for human-reviewed documentation assistance. **Not** an executable Creo or enterprise CAD integration.
-- **[Application Event ETL Demo](https://github.com/YSayaovong/Application-Event-ETL-Demo)** — Application event ingestion and data transformation exercise. Related to engineering application data processing, not evidence of production PLM support.
-- **[Manufacturing Scrap Rate Analytics](https://github.com/YSayaovong/Manufacturing-Scrap-Rate-Analytics)** — Manufacturing defect and production-rate reconciliation. Supporting evidence for data quality and root-cause analysis.
+- **[Engineering Change & Revision Tracker](https://github.com/YSayaovong/Engineering-Change-Revision-Tracker)** — SQLite simulation of revision requests, release gates, and change history.
+- **[Engineering BOM Validation System](https://github.com/YSayaovong/Engineering-BOM-Validation-System)** — Compares synthetic engineering and manufacturing BOMs and exports exceptions to Excel.
+- **[Transformer BOM Quality Analytics](https://github.com/YSayaovong/Transformer-BOM-Quality-Analytics)** — Reconciles workbook KPIs and checks synthetic revision and BOM quality data.
+- **[Manufacturing Scrap Rate Analytics](https://github.com/YSayaovong/Manufacturing-Scrap-Rate-Analytics)** — Uses SQL and Python to reconcile scrap totals and verify the production denominator.
 
-> **Visibility note:** Repository links will only open for viewers who have access. If the work remains private, these are portfolio references for the repository owner rather than publicly inspectable samples.
+## Planned portfolio development
 
-## Engineering systems projects being developed
-
-The following are **planned portfolio builds**, not completed implementations or current job responsibilities:
-
-1. **Engineering BOM Validation System** — Compare synthetic engineering and manufacturing BOMs; identify missing items, quantity differences, duplicates, and revision mismatches; export an Excel discrepancy report and run automated tests.
-2. **Creo CAD Application Support Toolkit** — Rule-based checks on synthetic CAD metadata exports and documented troubleshooting scenarios; no implied access to Creo APIs.
-3. **Engineering Change & Revision Tracker** — A sample change-control workflow with revision history and approval status.
-4. **Engineering Release Quality Dashboard** — Reproducible quality metrics for synthetic release-review events.
-5. **SAP–PDM Data Reconciliation Simulator** — Compare *simulated* ERP and PDM export files and generate exceptions; not a live SAP or TDMS connection.
-6. **Engineering Drawing & Nameplate Audit Tool** — Validate synthetic drawing/nameplate fields and approval completeness.
-
-Each build should be published as **implemented and tested**, with clearly defined inputs, validation rules, sample outputs, assumptions, limitations, and instructions to reproduce the results.
+Expand the engineering change tracker with workflow requirements and acceptance scenarios. Improve the BOM validator’s handling of ambiguous duplicates, and add an analysis of elapsed time at each review stage using synthetic timestamps.
 
 ## Technical background
 
