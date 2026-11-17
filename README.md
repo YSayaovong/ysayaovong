@@ -1,5 +1,5 @@
 # Yengkong Sayaovong
-### Engineering Business Analyst Portfolio
+### Engineering Systems & Configuration Portfolio
 
 Milwaukee, Wisconsin · [LinkedIn](https://www.linkedin.com/in/yengkongsayaovong/) · [Portfolio website](https://ysayaovong.github.io/ysayaovong/)
 
@@ -7,7 +7,7 @@ I am a **Mechanical Designer with nearly seven years of experience** in engineer
 
 I work with **Creo Parametric, SAP, TDMS, and Excel** to investigate model, documentation, and configuration discrepancies, support engineering workflows, and collaborate with manufacturing teams. My professional experience includes troubleshooting missing model parameters, dependency issues, and regeneration failures, as well as supporting and training other designers.
 
-**Career direction:** I’m pursuing fully remote Engineering Business Analyst roles from Wisconsin, with a focus on requirements, engineering change workflows, product data quality, and acceptance testing.
+**Career direction:** I’m pursuing fully remote Engineering Configuration Analyst, Engineering Change Analyst, and Engineering Systems Support roles from Wisconsin, focusing on release workflows, product data quality, change control, and technical troubleshooting.
 
 ## Engineering systems capabilities
 
@@ -27,7 +27,7 @@ These independent case studies and development exercises use synthetic data.
 - **[Engineering Change & Revision Tracker](https://github.com/YSayaovong/Engineering-Change-Revision-Tracker)** — Workflow requirements, release acceptance scenarios, and SQL analysis of approval delays and open requests in a synthetic demo.
 - **[Engineering BOM Validation System](https://github.com/YSayaovong/Engineering-BOM-Validation-System)** — Business rules and acceptance criteria for BOM reconciliation, with an Excel exception report and duplicate routing for review.
 - **[Transformer BOM Quality Analytics](https://github.com/YSayaovong/Transformer-BOM-Quality-Analytics)** — Reconciles workbook KPIs and checks synthetic revision and BOM quality data.
-- **[Manufacturing Scrap Rate Analytics](https://github.com/YSayaovong/Manufacturing-Scrap-Rate-Analytics)** — Uses SQL and Python to reconcile scrap totals and verify the production denominator.
+- **[Creo CAD Application Support Toolkit](https://github.com/YSayaovong/Creo-CAD-Application-Support-Toolkit)** — Offline troubleshooting simulator for synthetic CAD model metadata, parameter checks, references, and regeneration warnings.
 
 ## Technical background
 
@@ -42,6 +42,10 @@ Engineering design, release checking, configuration/documentation validation, CA
 
 **Arizona State University** — Bachelor's degree in Liberal Studies, *expected December 2027*  
 **Milwaukee Area Technical College** — AAS, Mechanical Design Technology, April 2021
+
+## Website and publication
+
+The existing [portfolio website](https://ysayaovong.github.io/ysayaovong/) now features the four engineering-focused projects. It remains the single primary portfolio site; the separate operations-analytics-portfolio repository is not required for this site. Before making private project repositories public, inspect their complete histories and run tests in a clean environment. Repository visibility and deletion must be managed in GitHub Settings.
 
 ## Project integrity
 
