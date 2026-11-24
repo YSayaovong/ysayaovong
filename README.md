@@ -2,7 +2,7 @@
 
 ## CAD Application Support & Engineering Systems Portfolio
 
-Milwaukee, Wisconsin · [Portfolio website](https://ysayaovong.github.io/ysayaovong/) · [LinkedIn](https://www.linkedin.com/in/yengkongsayaovong/)
+Milwaukee, Wisconsin · [Portfolio website](https://ysayaovong.github.io/ysayaovong/) · [Résumé](https://ysayaovong.github.io/ysayaovong/resume.html) · [LinkedIn](https://www.linkedin.com/in/yengkongsayaovong/)
 
 I’m a Mechanical Designer at GE Vernova pursuing **CAD Application Support** and **Engineering Configuration Analyst** roles.
 
