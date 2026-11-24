@@ -1,41 +1,33 @@
 # Yengkong Sayaovong
-### Engineering Systems & Configuration Portfolio
 
-Milwaukee, Wisconsin · [LinkedIn](https://www.linkedin.com/in/yengkongsayaovong/) · [Portfolio website](https://ysayaovong.github.io/ysayaovong/)
+## CAD Application Support & Engineering Systems Portfolio
 
-I am a **Mechanical Designer with nearly seven years of experience** in engineering design, CAD troubleshooting, bill of materials (BOM) validation, engineering release reviews, configuration management, and manufacturing support.
+Milwaukee, Wisconsin · [Portfolio website](https://ysayaovong.github.io/ysayaovong/) · [LinkedIn](https://www.linkedin.com/in/yengkongsayaovong/)
 
-I work with **Creo Parametric, SAP, TDMS, and Excel** to investigate model, documentation, and configuration discrepancies, support engineering workflows, and collaborate with manufacturing teams. My professional experience includes troubleshooting missing model parameters, dependency issues, and regeneration failures, as well as supporting and training other designers.
+I’m a Mechanical Designer at GE Vernova pursuing **CAD Application Support** and **Engineering Configuration Analyst** roles. I’m open to remote roles and onsite opportunities in the Milwaukee area.
 
-**Career direction:** I’m pursuing fully remote Engineering Configuration Analyst, Engineering Change Analyst, and Engineering Systems Support roles from Wisconsin, focusing on release workflows, product data quality, change control, and technical troubleshooting.
+## Professional experience
 
-## Engineering systems capabilities
+- **Creo Parametric troubleshooting** — Investigate model dependencies, missing parameters, and regeneration failures. Guide designers through troubleshooting and train new team members on detailing standards.
+- **Engineering release and configuration** — Review drawings, revisions, and bills of materials (BOMs). Use SAP S/4HANA Engineering Change Management and TDMS to check engineering records and verify nameplate data.
+- **Manufacturing support** — Investigate dimensional, material, assembly, and documentation discrepancies with manufacturing teams.
 
-| Area | Professional experience and focus |
-| --- | --- |
-| **CAD application troubleshooting** | Creo Parametric model dependencies, missing parameters, regeneration issues, design workflow support |
-| **Engineering data & BOM quality** | BOM validation, component specifications, revision/configuration discrepancies, documentation review |
-| **Engineering systems** | SAP and TDMS use in design, documentation, and manufacturing coordination |
-| **Release & configuration control** | Engineering release checks, standardized checklists, design consistency, production readiness |
-| **Problem investigation** | Dimensional, material, assembly, and documentation issues; root-cause investigation with manufacturing teams |
-| **Support & enablement** | CAD troubleshooting guidance, technical documentation, and designer training |
+## CAD support and engineering configuration projects
 
-## Selected analyst projects
+These independent projects use synthetic data and illustrative assumptions.
 
-These independent case studies and development exercises use synthetic data.
+- **[Creo CAD Configuration Validation Toolkit](https://github.com/YSayaovong/Creo-CAD-Application-Support-Toolkit)** — Validates synthetic Creo-style CSV metadata for missing parameters, unresolved model references, and reported regeneration problems. Generates a JSON report with issue severity and suggested investigation steps.
+- **[Engineering Change & Revision Tracker](https://github.com/YSayaovong/Engineering-Change-Revision-Tracker)** — Models change requests from draft through release. A Python CLI enforces approval transitions, stores timestamped revision history in SQLite, and supports analysis of approval delays.
+- **[Engineering BOM Validation System](https://github.com/YSayaovong/Engineering-BOM-Validation-System)** — Compares engineering and manufacturing BOM exports for missing parts, duplicates, revision mismatches, and quantity differences. Produces an Excel exception report for review.
+- **[Transformer BOM Quality Analytics](https://github.com/YSayaovong/Transformer-BOM-Quality-Analytics)** — Checks synthetic BOM error and revision records and reconciles dashboard KPIs against the source data.
 
-- **[Engineering Change & Revision Tracker](https://github.com/YSayaovong/Engineering-Change-Revision-Tracker)** — Workflow requirements, release acceptance scenarios, and SQL analysis of approval delays and open requests in a synthetic demo.
-- **[Engineering BOM Validation System](https://github.com/YSayaovong/Engineering-BOM-Validation-System)** — Business rules and acceptance criteria for BOM reconciliation, with an Excel exception report and duplicate routing for review.
-- **[Transformer BOM Quality Analytics](https://github.com/YSayaovong/Transformer-BOM-Quality-Analytics)** — Reconciles workbook KPIs and checks synthetic revision and BOM quality data.
-- **[Creo CAD Application Support Toolkit](https://github.com/YSayaovong/Creo-CAD-Application-Support-Toolkit)** — Offline troubleshooting simulator for synthetic CAD model metadata, parameter checks, references, and regeneration warnings.
+## Manufacturing analytics projects
 
-## Technical background
+- **[Manufacturing Station Capacity Simulation](https://github.com/YSayaovong/Manufacturing-Station-Capacity-Simulation)** — Uses Monte Carlo simulation to estimate station capacity and identify likely bottlenecks under assumed cycle times and downtime.
+- **[Manufacturing Scrap Rate Analytics](https://github.com/YSayaovong/Manufacturing-Scrap-Rate-Analytics)** — Reconciles production and scrap totals and calculates weighted scrap rates without counting production quantities multiple times across defect records.
+- **[Manufacturing Operations Analytics Portfolio](https://github.com/YSayaovong/manufacturing-operations-analytics-portfolio)** — Collects six case studies on downtime, production KPIs, defects, inventory, capacity planning, and engineering change orders.
 
-- **Professional tools:** Creo Parametric · SAP · TDMS · Microsoft Excel
-- **Engineering disciplines:** CAD troubleshooting · BOM checks · drawing/revision review · documentation · engineering release reviews · manufacturing issue investigation
-- **Independent portfolio practice:** Python · SQL · data reconciliation · automation concepts · reporting (see linked repositories for verified implementation details)
-
-## Experience & education
+## Experience and education
 
 **Mechanical Designer — GE Vernova (October 2020–present)**  
 Engineering design, release checking, configuration/documentation validation, CAD support, and manufacturing collaboration. Previous Mechanical Design Intern role in 2020.
@@ -43,15 +35,4 @@ Engineering design, release checking, configuration/documentation validation, CA
 **Arizona State University** — Bachelor's degree in Liberal Studies, *expected December 2027*  
 **Milwaukee Area Technical College** — AAS, Mechanical Design Technology, April 2021
 
-## Website and publication
-
-The existing [portfolio website](https://ysayaovong.github.io/ysayaovong/) now features the four engineering-focused projects. It remains the single primary portfolio site; the separate operations-analytics-portfolio repository is not required for this site. Before making private project repositories public, inspect their complete histories and run tests in a clean environment. Repository visibility and deletion must be managed in GitHub Settings.
-
-## Project integrity
-
-This GitHub profile separates **professional engineering experience** from **independent coding practice**. All new portfolio examples should use synthetic or otherwise shareable data, not confidential drawings, customer records, internal exports, or proprietary engineering specifications. Portfolio code and documentation may be AI-assisted and must be reviewed, tested, and understood before being presented as demonstrated personal capability.
-
-📫 [Connect on LinkedIn](https://www.linkedin.com/in/yengkongsayaovong/)
-
----
-*This repository also contains a static portfolio website (`index.html`, `style.css`, `script.js`). Run `python check_portfolio.py` to validate local links/assets and role alignment. This check does not verify external links or claim accessibility certification.*
+Run `python check_portfolio.py` to verify the portfolio’s local assets, navigation, and featured project links.
