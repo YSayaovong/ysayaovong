@@ -4,6 +4,7 @@ This is a local structure check, not a remote-link or accessibility audit.
 """
 from html.parser import HTMLParser
 from pathlib import Path
+from html import escape
 import re
 
 ROOT = Path(__file__).resolve().parent
@@ -33,15 +34,22 @@ parser = PortfolioLinks()
 parser.feed(html)
 assert all(anchor[1:] in parser.ids for anchor in parser.anchors if anchor.startswith("#")), "Missing navigation target"
 assert all((ROOT / asset).is_file() for asset in parser.assets), "Missing static asset"
-assert "ENGINEERING SYSTEMS" in readme.upper()
-assert "Engineering Business Analyst Portfolio" in readme
-assert "<h1>Engineering Business Analyst Portfolio</h1>" in html
-assert {"change-control", "bom-reconciliation"} <= parser.ids
+portfolio_title = "CAD Application Support & Engineering Systems Portfolio"
+assert portfolio_title in readme, "Missing README portfolio title"
+assert f"<h1>{escape(portfolio_title)}</h1>" in html, "Missing website portfolio title"
+assert {"cad-support", "change-control", "bom-reconciliation", "manufacturing"} <= parser.ids
 assert "synthetic" in readme.lower()
 assert not re.search(r'<a[^>]+href="#[^"]+"[^>]*>\s*</a>', html), "Empty navigation link"
-featured = ("Engineering-Change-Revision-Tracker", "Engineering-BOM-Validation-System",
-            "Transformer-BOM-Quality-Analytics", "Manufacturing-Scrap-Rate-Analytics")
+featured = (
+    "Creo-CAD-Application-Support-Toolkit",
+    "Engineering-Change-Revision-Tracker",
+    "Engineering-BOM-Validation-System",
+    "Transformer-BOM-Quality-Analytics",
+    "Manufacturing-Station-Capacity-Simulation",
+    "Manufacturing-Scrap-Rate-Analytics",
+    "manufacturing-operations-analytics-portfolio",
+)
 for repo in featured:
     url = f"https://github.com/YSayaovong/{repo}"
     assert url in parser.anchors and url in readme, f"Missing featured project: {repo}"
-print("Local assets, anchors, and analyst portfolio links verified.")
+print("Local assets, anchors, and featured project links verified.")
