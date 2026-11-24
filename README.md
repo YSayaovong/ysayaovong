@@ -4,7 +4,7 @@
 
 Milwaukee, Wisconsin · [Portfolio website](https://ysayaovong.github.io/ysayaovong/) · [LinkedIn](https://www.linkedin.com/in/yengkongsayaovong/)
 
-I’m a Mechanical Designer at GE Vernova pursuing **CAD Application Support** and **Engineering Configuration Analyst** roles. I’m open to remote roles and onsite opportunities in the Milwaukee area.
+I’m a Mechanical Designer at GE Vernova pursuing **CAD Application Support** and **Engineering Configuration Analyst** roles.
 
 ## Professional experience
 
